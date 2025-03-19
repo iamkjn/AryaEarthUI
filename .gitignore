@@ -27,8 +27,7 @@ Thumbs.db
 *.iml
 .cxx/
 
-# Navigation Safe Args
-/gradle/wrapper/
+
 # Captures of Logcat
 logcat.txt
 
