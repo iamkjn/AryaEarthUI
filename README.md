@@ -101,7 +101,8 @@ Here are some screenshots of the app:
 ![MessageTypeScreen](screenshots/MessageTypeScreen.png)
 ![UpdatedMessagesList](screenshots/UpdatedMessagesList.png)
 ![BottomMenuScreen](screenshots/BottomMenuScreen.png)
-![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.gif) <br> <br>
+![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.gif)
+<br><br>
 ![Animation2TheSendMessageButton](screenshots/Animation2TheSendMessageButton.gif)
 
 Here's an apk link:
