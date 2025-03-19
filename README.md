@@ -6,7 +6,7 @@
 
 -   **Real-time Messaging:** Send and receive messages instantly.
 -   **User Profiles:** Manage and customize your user profile.
--   **Message overlay**: Display an overlay over the main screen to get more involment via media messages from sender to receiver.
+-   **Message overlay:** Display an overlay over the main screen to get more involvement via media messages from sender to receiver.
 
 ## Tech Stack
 
@@ -14,13 +14,13 @@
 -   **Android Jetpack:**
     -   **Compose:** For building the user interface.
     -   **ViewModel:** For managing UI-related data and lifecycle.
-    -   **Lifecycle-Runtime-Compose**: support for lifecycle in compose
-    -   **Activity-Compose**: support for activity in compose
-    -   **Animation**: Provide animations
-    - **Foundation**: provide the foundation for the app
-    - **Material3**: support for material design 3
-    - **Material**: Support for material design
-   
+    -   **Lifecycle-Runtime-Compose:** Support for lifecycle in Compose.
+    -   **Activity-Compose:** Support for Activity in Compose.
+    -   **Animation:** Provide animations.
+    -   **Foundation:** Provide the foundation for the app.
+    -   **Material3:** Support for Material Design 3.
+    -   **Material:** Support for Material Design.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -34,14 +34,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1.  Clone the repository:
+    ```bash
+    git clone [YOUR_REPOSITORY_URL]
+    ```
 2.  Open the project in Android Studio.
 3.  Sync Gradle files.
 4.  Build and run the app on an emulator or physical device.
 
 ## Project Structure
-
-Here's a detailed breakdown of the project's directory structure:
-
 
 AryaCommunication/
 ├── app/                                  # Android application module
@@ -57,10 +57,10 @@ AryaCommunication/
 │   │   │   │               ├── ui/         # UI layer (Compose)
 │   │   │   │               │   ├── components/ # Reusable UI components
 │   │   │   │               │   │   ├── MessageBubble.kt
-│   │   │   │               │   │   └── MessageInput.kt
+│   │   │   │               │   │   ├── MessageInput.kt
 │   │   │   │               │   │   ├── MessageOverlay.kt
-│   │   │   │               │   │   └── ScreenContent.kt
-│   │   │   │               │   │   ├── TopBar.kt
+│   │   │   │               │   │   ├── ScreenContent.kt
+│   │   │   │               │   │   └── TopBar.kt
 │   │   │   │               │   ├── screen/     # Screens in the app
 │   │   │   │               │   │   └── MessagingScreen.kt
 │   │   │   │               │   ├── theme/      # App theming
@@ -68,7 +68,7 @@ AryaCommunication/
 │   │   │   │               │   │   └── Theme.kt
 │   │   │   │               │   └── viewmodel/  # ViewModel classes
 │   │   │   │               │       └── MessagingViewModel.kt
-│   │   │   │               └── MainActivity #Use as a Launcher
+│   │   │   │               └── MainActivity.kt # Use as a Launcher
 │   │   │   ├── res/                          # Resources
 │   │   │   │   ├── drawable/                 # Image assets
 │   │   │   │   ├── mipmap-hdpi/              # Launcher icons
@@ -82,7 +82,7 @@ AryaCommunication/
 │   │   │   │   │   └── themes.xml              # Theme files
 │   │   │   │   └── ...
 │   │   │   └── ...
-│   └── ...
+│   │   └── ...
 ├── build.gradle.kts                      # Project-level build configuration
 ├── gradle/                               # Gradle files
 │   └── libs.versions.toml                # Version catalog file
@@ -92,31 +92,25 @@ AryaCommunication/
 └── ...                                   # Other project files (e.g., .gitignore, README.md)
 
 
-# Visual Representation of UI & Animation
+## Visual Representation of UI & Animation
 
-Here are some screenshots of the app:
+### Screenshots
 
-![ChatScreen](screenshots/ChatScreen.png)
-![EmptyMessageScreen](screenshots/EmptyMessageScreen.png)
-![MessageTypeScreen](screenshots/MessageTypeScreen.png)
-![UpdatedMessagesList](screenshots/UpdatedMessagesList.png)
-![BottomMenuScreen](screenshots/BottomMenuScreen.png)
-
-
-
-
-<div style="display: inline-block; margin-right: 20px;">
- <img src="screenshots/Animation1MessageAdditionOverlay.gif" alt="Animation1MessageAdditionOverlay"
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="screenshots/ChatScreen.png" alt="ChatScreen" style="width: 200px; margin: 10px;">
+  <img src="screenshots/EmptyMessageScreen.png" alt="EmptyMessageScreen" style="width: 200px; margin: 10px;">
+  <img src="screenshots/MessageTypeScreen.png" alt="MessageTypeScreen" style="width: 200px; margin: 10px;">
+  <img src="screenshots/UpdatedMessagesList.png" alt="UpdatedMessagesList" style="width: 200px; margin: 10px;">
+  <img src="screenshots/BottomMenuScreen.png" alt="BottomMenuScreen" style="width: 200px; margin: 10px;">
 </div>
-<div style="display: inline-block;">
-<img src="screenshots/Animation2TheSendMessageButton.gif" alt="Animation2TheSendMessageButton">
+
+### GIFs
+
+<div style="display: flex;">
+  <img src="screenshots/Animation1MessageAdditionOverlay.gif" alt="Animation1MessageAdditionOverlay" style="margin-right: 20px;">
+  <img src="screenshots/Animation2TheSendMessageButton.gif" alt="Animation2TheSendMessageButton">
 </div>
-    
-![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.gif)
-<br><br>
-![Animation2TheSendMessageButton](screenshots/Animation2TheSendMessageButton.gif)
 
-Here's an apk link:
+## APK Download
 
-[Google Drive](https://drive.google.com/file/d/1bzm_3_oXgGWgMPxSUUEHYSYF2vg-lNhn/view?usp=sharing)
-        
+[Google Drive APK Download](https://drive.google.com/file/d/1bzm_3_oXgGWgMPxSUUEHYSYF2vg-lNhn/view?usp=sharing)
