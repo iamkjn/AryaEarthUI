@@ -92,7 +92,7 @@ AryaCommunication/
 └── ...                                   # Other project files (e.g., .gitignore, README.md)
 
 
-# Visual Representation of UI & ANimation
+# Visual Representation of UI & Animation
 
 Here are some screenshots of the app:
 
@@ -101,8 +101,8 @@ Here are some screenshots of the app:
 ![MessageTypeScreen](screenshots/MessageTypeScreen.png)
 ![UpdatedMessagesList](screenshots/UpdatedMessagesList.png)
 ![BottomMenuScreen](screenshots/BottomMenuScreen.png)
-![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.mp4)
-![Animation2TheSendMessageButton](screenshots/Animation2TheSendMessageButton.mp4)
+![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.gif)
+![Animation2TheSendMessageButton](screenshots/Animation2TheSendMessageButton.gif)
 
 Here's an apk:
 
