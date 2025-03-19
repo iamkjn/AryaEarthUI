@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+.idea/
+local.properties
+.DS_Store
+
+# Generated files
+*.apk
+*.ap_
+*.aab
+
+# Kotlin/Compose
+.kotlin/
+.composeCompiler/
+
+# Build outputs
+/out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Android Studio specific files
+*.iml
+.cxx/
+
+# Navigation Safe Args
+/gradle/wrapper/
+# Captures of Logcat
+logcat.txt
+
+# Other
+/app/build/outputs/apk/
+
+# Test files
+**/test/
+**/androidTest/
