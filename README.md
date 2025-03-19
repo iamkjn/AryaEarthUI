@@ -106,5 +106,5 @@ Here are some screenshots of the app:
 
 Here's an apk:
 
-![Google Drive](https://drive.google.com/file/d/1bzm_3_oXgGWgMPxSUUEHYSYF2vg-lNhn/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1bzm_3_oXgGWgMPxSUUEHYSYF2vg-lNhn/view?usp=sharing)
         
