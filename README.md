@@ -42,7 +42,7 @@ These instructions will get you a copy of the project up and running on your loc
 4.  Build and run the app on an emulator or physical device.
 
 ## Project Structure
-
+```
 AryaCommunication/
 ├── app/                                  # Android application module
 │   ├── build.gradle.kts                  # Build configuration for the app module
@@ -90,7 +90,7 @@ AryaCommunication/
 ├── gradlew.bat                           # Gradle wrapper script (Windows)
 ├── settings.gradle.kts                   # Project settings
 └── ...                                   # Other project files (e.g., .gitignore, README.md)
-
+```
 
 ## Visual Representation of UI & Animation
 
