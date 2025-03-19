@@ -97,10 +97,10 @@ AryaCommunication/
 Here are some screenshots of the app:
 
 ![ChatScreen](screenshots/ChatScreen.png)
-![EmptyMessageScreen](screenshots/EmptyMessageScreen.jpg)
-![MessageTypeScreen](screenshots/MessageTypeScreen.jpg)
-![UpdatedMessagesList](screenshots/UpdatedMessagesList.jpg)
-![BottomMenuScreen](screenshots/BottomMenuScreen.jpg)
+![EmptyMessageScreen](screenshots/EmptyMessageScreen.png)
+![MessageTypeScreen](screenshots/MessageTypeScreen.png)
+![UpdatedMessagesList](screenshots/UpdatedMessagesList.png)
+![BottomMenuScreen](screenshots/BottomMenuScreen.png)
 ![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.mp4)
 ![Animation2TheSendMessageButton](screenshots/Animation2TheSendMessageButton.mp4)
 
