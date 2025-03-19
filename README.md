@@ -101,6 +101,10 @@ Here are some screenshots of the app:
 ![MessageTypeScreen](screenshots/MessageTypeScreen.png)
 ![UpdatedMessagesList](screenshots/UpdatedMessagesList.png)
 ![BottomMenuScreen](screenshots/BottomMenuScreen.png)
+
+<img src="screenshots/Animation1MessageAdditionOverlay.gif" alt="Animation1MessageAdditionOverlay" style="margin-right: 20px;">
+<img src="screenshots/Animation2TheSendMessageButton.gif" alt="Animation2TheSendMessageButton">
+
 ![Animation1MessageAdditionOverlay](screenshots/Animation1MessageAdditionOverlay.gif)
 <br><br>
 ![Animation2TheSendMessageButton](screenshots/Animation2TheSendMessageButton.gif)
