@@ -10,6 +10,9 @@ lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.10.1"
 composeBom = "2025.03.00"
 lifecycleViewmodelCompose = "2.8.7"
+targetSDKVersion = "34"
+minSDKVersion = "24"
+compileSDKVersion = "34"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }

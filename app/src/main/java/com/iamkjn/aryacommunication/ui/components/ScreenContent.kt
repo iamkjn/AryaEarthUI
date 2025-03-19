@@ -71,8 +71,6 @@ fun ScreenContent(viewModel: MessagingViewModel) {
  * @param onMessageInputChange Callback for changes in the message input field.
  * @param onSendClick Callback for when the send button is clicked.
  * @param onPlusClick Callback for when the plus button is clicked.
- * @param onCloseOverlay Callback for when the overlay is closed.
- * @param viewModel The [MessagingViewModel] for managing the overlay.
  */
 @Composable
 fun ScreenContentBody(

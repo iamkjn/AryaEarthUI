@@ -1,6 +1,5 @@
 package com.iamkjn.aryacommunication.ui.screen
 
-import androidx.compose.animation.ExperimentalSharedTransitionApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -26,7 +25,6 @@ import com.iamkjn.aryacommunication.viewmodel.MessagingViewModel
  *
  * @param viewModel The [MessagingViewModel] used to provide data and handle actions on this screen.
  */
-@OptIn(ExperimentalSharedTransitionApi::class)
 @Composable
 fun MessagingScreen(viewModel: MessagingViewModel) {
     // Apply the MessagingScreenTheme to the composable content.

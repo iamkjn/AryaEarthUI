@@ -140,7 +140,7 @@ class MessagingViewModel : ViewModel() {
      * Handles the selection of the camera option from the overlay.
      * Closes the overlay after selection.
      */
-    fun onCameraSelected() {
+    private fun onCameraSelected() {
         // Handle camera selection
         _isOverlayVisible.value = false
     }
@@ -149,7 +149,7 @@ class MessagingViewModel : ViewModel() {
      * Handles the selection of the photos option from the overlay.
      * Closes the overlay after selection.
      */
-    fun onPhotosSelected() {
+    private fun onPhotosSelected() {
         // Handle photos selection
         _isOverlayVisible.value = false
     }
@@ -158,7 +158,7 @@ class MessagingViewModel : ViewModel() {
      * Handles the selection of the files option from the overlay.
      * Closes the overlay after selection.
      */
-    fun onFilesSelected() {
+    private fun onFilesSelected() {
         // Handle files selection
         _isOverlayVisible.value = false
     }
@@ -167,7 +167,7 @@ class MessagingViewModel : ViewModel() {
      * Handles the selection of the audio option from the overlay.
      * Closes the overlay after selection.
      */
-    fun onAudioSelected() {
+    private fun onAudioSelected() {
         // Handle audio selection
         _isOverlayVisible.value = false
     }
