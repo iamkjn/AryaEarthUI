@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone [https://github.com/iamkjn/AryaEarthUI]
     ```
 2.  Open the project in Android Studio.
 3.  Sync Gradle files.
