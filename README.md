@@ -5,7 +5,6 @@
 ## Features
 
 -   **Real-time Messaging:** Send and receive messages instantly.
--   **User Profiles:** Manage and customize your user profile.
 -   **Message overlay:** Display an overlay over the main screen to get more involvement via media messages from sender to receiver.
 
 ## Tech Stack
